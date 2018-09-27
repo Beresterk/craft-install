@@ -1,4 +1,14 @@
 {
+  "name": "Craft install",
+  "description": "Install Craft baseinstall",
+  "version": "1.0",
+  "keywords": [
+    "craft",
+    "cms",
+    "craftcms",
+    "project",
+    "beresterk"
+  ],
   "require": {
     "beresterk/craft": "^1.0.0"
   }
